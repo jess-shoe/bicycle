@@ -4,7 +4,7 @@
 	import mapboxgl from "mapbox-gl";
 	import "mapbox-gl/dist/mapbox-gl.css";
 
-	mapboxgl.accessToken = "placeholder";
+	mapboxgl.accessToken = "pk.eyJ1IjoianRzaG9lIiwiYSI6ImNtbzEzdTFuMjBldnYycG90c2g0ZTZ0YWoifQ.9l9m3G0VYGapExZ2vz14dg";
 
 	const BOSTON_LANES_URL =
 		"https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::existing-bike-network-2022.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D";
